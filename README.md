@@ -1,6 +1,6 @@
 Just install the package
 ```bash
-go get github.com/username/go-ipinfo
+go get github.com/rustnomicon/ip-api-wrapper-go
 ```
 
 And use
