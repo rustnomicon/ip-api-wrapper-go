@@ -1,3 +1,3 @@
-module example.com/m/v2
+module ip-api-wrapper
 
 go 1.23.4
